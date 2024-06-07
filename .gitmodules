@@ -1,0 +1,24 @@
+[submodule "lichess_bot_multirunner"]
+	path = lichess_bot_multirunner
+	url = https://github.com/ezhang7423/lichess_bot_multirunner.git
+[submodule "chess_research"]
+	path = chess_research
+	url = https://github.com/ezhang7423/chess_research.git
+[submodule "chess-nanoGPT"]
+	path = chess-nanoGPT
+	url = https://github.com/Founding-Zero/chess-nanoGPT.git
+[submodule "fig-gen-transcendence"]
+	path = fig-gen-transcendence
+	url = https://github.com/ezhang7423/fig-gen-transcendence.git
+[submodule "Chess-Tactic-Finder"]
+	path = Chess-Tactic-Finder
+	url = https://github.com/ezhang7423/Chess-Tactic-Finder.git
+[submodule "chess_llm_interpretability"]
+	path = chess_llm_interpretability
+	url = https://github.com/ezhang7423/chess_llm_interpretability.git
+[submodule "Chess_Latent_Board_State_TSNE"]
+	path = Chess_Latent_Board_State_TSNE
+	url = https://github.com/ezhang7423/Chess_Latent_Board_State_TSNE.git
+[submodule "lichess-bot"]
+	path = lichess-bot
+	url = https://github.com/ezhang7423/lichess-bot.git
